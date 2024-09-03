@@ -9,7 +9,6 @@ I am an IT student specializing in programming with a passion for JavaScript and
 - **Database Design and Programming with SQL, Oracle – 2023**  
 - **CCNAv7, Cisco – 2024**  
 
-
 ## 🌍 Languages:
 - **Czech**
 - **English** 
