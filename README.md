@@ -4,18 +4,10 @@ I am an IT student specializing in programming with a passion for JavaScript and
 ## 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryglus&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎓 Certifications:
-- **SCATE (C1), Scio – 2021**  
-- **Database Design and Programming with SQL, Oracle – 2023**  
-- **CCNAv7, Cisco – 2024**  
-
 ## 🌍 Languages:
 - **Czech**
 - **English** 
 
-## 🏋️ Hobbies:
-- **Fitness**
-  
 ---
 [![](https://visitcount.itsvg.in/api?id=Ryglus&icon=0&color=0)](https://visitcount.itsvg.in)
 
