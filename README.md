@@ -5,7 +5,7 @@ I am an IT student specializing in programming with a passion for JavaScript and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryglus&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎓 Certifications:
-- **SCATE, Scio – 2021**  
+- **SCATE (C1), Scio – 2021**  
 - **Database Design and Programming with SQL, Oracle – 2023**  
 - **CCNAv7, Cisco – 2024**  
 
